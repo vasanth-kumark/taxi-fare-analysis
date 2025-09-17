@@ -64,5 +64,7 @@ Using **statistical data analysis**, the project provides insights into customer
 The dataset used in this project is from the **NYC Yellow Taxi Trip Records**.  
 You can access it here: [NYC Taxi Dataset on google drive](https://drive.google.com/file/d/10r_g-JSBOK1GbMJtS5X9haX9d3LDozpe/view?usp=sharing)
 
-👤 **Author:** Vasanth Kumar K
-_Aspiring Data Analyst | Skilled in SQL, Excel, Power BI, Tableau, Python_  
+## 🤝 Connect
+👤 **Vasanth Kumar**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vasanth-kumark)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vasanthkumarwork.lovable.app/)
